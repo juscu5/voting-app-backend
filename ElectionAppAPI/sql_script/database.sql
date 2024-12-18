@@ -1,0 +1,20 @@
+﻿USE [ELECTION_DB]
+GO
+/****** Object:  Table [dbo].[CANDIDATE_TABLE]    Script Date: 2/10/2022 10:51:59 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[CANDIDATE_TABLE](
+	[ID] [uniqueidentifier] NOT NULL,
+	[LASTNAME] [varchar](50) NOT NULL,
+	[FIRSTNAME] [varchar](50) NOT NULL,
+	[BIRTHDATE] [date] NOT NULL,
+	[CANDIDATE_FOR] [varchar](50) NOT NULL,
+	[CREATED_AT] [datetime] NOT NULL,
+	[STATUS] [bit] NOT NULL,
+	[VOTE_COUNT] [int] NOT NULL,
+	[COVER_LINKS] [varchar](max) NULL,
+	[USER_LINKS] [varchar](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO

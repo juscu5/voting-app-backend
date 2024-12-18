@@ -1,0 +1,88 @@
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.exe
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.deps.json
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.runtimeconfig.json
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.runtimeconfig.dev.json
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ref\ElectionAppAPI.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.pdb
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.csprojAssemblyReference.cache
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.AssemblyInfoInputs.cache
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.AssemblyInfo.cs
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.csproj.CoreCompileInputs.cache
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\staticwebassets\ElectionAppAPI.StaticWebAssets.Manifest.cache
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\staticwebassets\ElectionAppAPI.StaticWebAssets.xml
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\scopedcss\bundle\ElectionAppAPI.styles.css
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.csproj.CopyComplete
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ref\ElectionAppAPI.dll
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.pdb
+C:\Users\jmobias23\source\repos\ElectionAppAPI\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.genruntimeconfig.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.exe
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.deps.json
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.runtimeconfig.json
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.runtimeconfig.dev.json
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ref\ElectionAppAPI.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\ElectionAppAPI.pdb
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.csproj.AssemblyReference.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.AssemblyInfoInputs.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.AssemblyInfo.cs
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.csproj.CoreCompileInputs.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\staticwebassets\ElectionAppAPI.StaticWebAssets.Manifest.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\staticwebassets\ElectionAppAPI.StaticWebAssets.xml
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\scopedcss\bundle\ElectionAppAPI.styles.css
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.csproj.CopyComplete
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ref\ElectionAppAPI.dll
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.pdb
+C:\Users\Junel Cunanan\Documents\1. Junel Files\Work\Teleperformance\Project\Election App\ElectionAppAPI\obj\Debug\net5.0\ElectionAppAPI.genruntimeconfig.cache
